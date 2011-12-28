@@ -1,0 +1,4 @@
+*.ReSharper.user
+bin/
+obj/
+*.suo
